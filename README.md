@@ -2,7 +2,7 @@
 This is my simple NixOS configuration snapshot. If you want to use, please read side by side with the default configuration.nix.
 
 ✒️You can use this for your personal NixOS desktop configuration
-Important:
+
 1. This will install grub as bootloader (assuming you are using a gpt EFI partition)
 
 2. You can adjust the time zone in the section
@@ -29,7 +29,7 @@ BAHASA
 Ini adalah snapshot konfigurasi NixOS sederhana saya. Jika ingin menggunakan, silakan baca berdampingan dengan default configuration.nix.
 
 ️Anda dapat menggunakan ini untuk konfigurasi desktop NixOS pribadi Anda
-Penting:
+
 1. Ini akan menginstal grub sebagai bootloader (dengan asumsi Anda menggunakan partisi gpt EFI)
 
 2. Anda dapat menyesuaikan zona waktu di bagian

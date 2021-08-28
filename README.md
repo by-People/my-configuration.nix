@@ -23,7 +23,7 @@ Things to note :
 - pipewire can be enabled by omitting # (read wiki)
 
 
-# configuration.nix
+# configuration.nix (BAHASA)
 Ini adalah snapshot konfigurasi NixOS sederhana saya. Jika ingin menggunakan, silakan baca berdampingan dengan default configuration.nix.
 
 ️Anda dapat menggunakan ini untuk konfigurasi desktop NixOS pribadi Anda
@@ -44,5 +44,5 @@ Hal-hal yang perlu diperhatikan:
 - tlp dan flatpak akan ditambahkan
 - xfce dekstop default dengan lightdm
 - nama pengguna default (reiza=namasaya) tolong ubah
-- 2 pengguna (reiza dan tamu)
+- 2 pengguna (reiza dan guest)
 - pipewire dapat diaktifkan dengan menghilangkan # (baca wiki)

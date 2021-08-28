@@ -23,8 +23,6 @@ Things to note :
 - pipewire can be enabled by omitting # (read wiki)
 
 
-BAHASA
-
 # configuration.nix
 Ini adalah snapshot konfigurasi NixOS sederhana saya. Jika ingin menggunakan, silakan baca berdampingan dengan default configuration.nix.
 
